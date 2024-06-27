@@ -1,0 +1,57 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+    font-size: 50px;
+}
+
+div{
+ 
+}
+
+.theimage{
+    display: flex;
+    align-items: center;
+    height: 300px;
+    justify-content: center;
+
+   
+    background-size: cover;
+    height: 100%;
+   
+    background-image: url(images/75wggd77fu581.jpg);
+     
+    
+  
+}
+
+body, html{
+    height: 100%;
+}
+
+.thetext{
+    color: rgb(232, 184, 93);
+    display: block;
+    text-align: center;
+    -webkit-text-stroke: 1px;
+    max-width: 100%;
+    height: auto;
+    -webkit-text-stroke-color: black;
+    
+    
+
+
+   
+   
+
+  
+}
+
+.hi{
+
+}
+
+.lofi{
+    text-align: center;
+}
